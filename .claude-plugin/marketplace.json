@@ -1,10 +1,12 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "bskcpy-plugins",
-  "description": "Berserk energy, capybara pace. A personal Claude Code plugin marketplace — wildly productive, completely unbothered.",
   "owner": {
-    "name": "berserkcapy",
+    "name": "BerserkCapy",
     "email": "coex9copro4@gmail.com"
+  },
+  "metadata": {
+    "description": "Berserk energy, capybara pace. A personal Claude Code plugin marketplace — wildly productive, completely unbothered.",
+    "version": "0.1.0"
   },
   "plugins": [
     {

@@ -7,7 +7,7 @@ A personal Claude Code plugin marketplace. Wildly productive, completely unbothe
 ## Install
 
 ```
-/plugin marketplace add github:Capybara-sama/bskcpy-plugins
+/plugin marketplace add github:BerserkCapy/bskcpy-plugins
 ```
 
 or via `/plugin > Discover > Manage Marketplaces`.

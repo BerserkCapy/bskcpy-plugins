@@ -1,0 +1,18 @@
+{
+  "name": "wsl-clipboard-image",
+  "version": "1.0.0",
+  "description": "Ctrl+Shift+V でWindowsクリップボードの画像をWSL上のClaude Codeに貼り付けるプラグイン",
+  "author": {
+    "name": "fumitake saegusa",
+    "email": "coex9copro4@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "wsl",
+    "clipboard",
+    "image",
+    "paste",
+    "windows"
+  ],
+  "mcpServers": "./.mcp.json"
+}

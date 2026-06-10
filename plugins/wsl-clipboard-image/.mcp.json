@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wsl-clipboard": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/clipboard-mcp-server.py"]
+    }
+  }
+}

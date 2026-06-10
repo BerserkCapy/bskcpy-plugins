@@ -1,0 +1,17 @@
+{
+  "description": "WSL clipboard image paste - SessionStart でCtrl+Shift+Vキーバインドを自動設定",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PLUGIN_ROOT/scripts/setup-keybinding.py\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

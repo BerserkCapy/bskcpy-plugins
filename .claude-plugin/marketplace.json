@@ -6,5 +6,16 @@
     "name": "berserkcapy",
     "email": "coex9copro4@gmail.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "wsl-clipboard-image",
+      "description": "Ctrl+Shift+V でWindowsクリップボードの画像をWSL上のClaude Codeに貼り付けるプラグイン。PowerShell経由のMCPフォールバック対応。",
+      "author": {
+        "name": "fumitake saegusa",
+        "email": "coex9copro4@gmail.com"
+      },
+      "category": "productivity",
+      "source": "./plugins/wsl-clipboard-image"
+    }
+  ]
 }
